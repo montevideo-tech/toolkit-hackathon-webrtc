@@ -23,7 +23,7 @@ Here are some starting points for your journey, feel free to dig deeper as much 
 ## Our Infraestructure
 The core of the WebRTC backend is a [Janus Server](https://janus.conf.meetecho.com/) using the [VideoRoom plugin](https://janus.conf.meetecho.com/docs/videoroom.html). It is in charge of the signaling server and the SFU server.
 
-You can refer to the [VideoRoom plugin](https://janus.conf.meetecho.com/docs/videoroom.html) publisher documentation for SDP negotiation, we recommend using the [minijanus.js](https://github.com/mozilla/minijanus.js/) for connecting with the signaling. Shortly, we will add an example on how to connect to our signaling and request pushing a stream.
+You can refer to the [VideoRoom plugin](https://janus.conf.meetecho.com/docs/videoroom.html) publisher documentation for SDP negotiation, we recommend using the [minijanus.js](https://github.com/mozilla/minijanus.js/) for connecting with the signaling. There is an example of using it in [janus.js](janus.js).
 
 - **Stage page:** [https://stage.montevideotech.dev](https://stage.montevideotech.dev)
 - **Signaling server:** `wss://webrtc.qualabs.dev/ws` with protocol `janus-protocol`
