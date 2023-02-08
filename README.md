@@ -13,7 +13,8 @@ With the challenge you will learn the WebRTC basis to establish a connection and
 
 ## Where do I start?
 Here are some starting points for your journey, feel free to dig deeper as much as you want!
-- [Introduction to main concepts of WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols)
+- [Introduction to main concepts of WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+- [WebRTC Protocols](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols)
 - [WebRTC connectivity](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Connectivity)
 - [Signaling and Video calling](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling)
 - [WebRTC Architectures](https://medium.com/securemeeting/webrtc-architecture-basics-p2p-sfu-mcu-and-hybrid-approaches-6e7d77a46a66) (we are using SFU)
